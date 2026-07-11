@@ -1,0 +1,8 @@
+db.sql
+password.txt
+*.log
+*.cache
+
+node_module/
+
+!deepu.log 
